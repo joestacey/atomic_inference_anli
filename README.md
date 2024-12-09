@@ -1,4 +1,5 @@
-# This is the project code for our paper _**Atomic Inference for NLI with Generated Facts as Atoms**_
+# This is the project code for our EMNLP 2024 paper: _**Atomic Inference for NLI with Generated Facts as Atoms**_
+![Screenshot 2024-12-09 at 08 42 26](https://github.com/user-attachments/assets/74d4983c-098f-4e1d-a054-ebbe30d3e764)
 
 Contact email address: j.stacey20@imperial.ac.uk
 
