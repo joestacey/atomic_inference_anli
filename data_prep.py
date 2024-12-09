@@ -27,7 +27,7 @@ HP_DICT_ALL = {
         }
 
 FILE_LOOKUP = {
-        'default': 'get_expl/processed_explanations_train_expl_anli_v2_seed_.pkl'
+        'default': 'get_expl/processed_explanations_train_expl_anli.pkl'
         }
 
 def create_dictionary_of_eval_datasets(
